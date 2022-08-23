@@ -8,6 +8,8 @@ roti
 pizza
 dosa 
 idli
+vada 
+bonda
 
 
 
